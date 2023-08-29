@@ -13,11 +13,14 @@ code {
     monospace;
 }
 .my-bg-color{
-  background-color:rgba(146, 202, 237, 0.89);
+  background-color:#fec53c;
 }
 .navbar .navbar-nav .nav-link {
   color: #fff;
-  font-size: 1.1em;
+  font-size: 1.4em;
+  font-family :'Times New Roman', Times, serif;
+
+  
 }
 .navbar .navbar-nav .nav-link:hover {
 background-color: #ffffff;

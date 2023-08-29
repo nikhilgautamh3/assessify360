@@ -1,10 +1,18 @@
-import React from 'react'
+import React from "react"
+import Styles from './contact.module.css';
 
 const Home = () => {
-    return(
-        <div>
-            <p className="pt-5">Hello</p>
+    return(<>
+        <div className={Styles.first_div}>
+        <img src="images/hat.png" alt="logo" />
         </div>
+        <div className={Styles.second_div}>
+        <img src="images/remote.png" alt="logo" />
+        </div>
+        
+        </>
+       
+
     )
 }
 
