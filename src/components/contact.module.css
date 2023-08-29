@@ -1,0 +1,78 @@
+ .heading {
+font-size: 75px;
+font-weight: 800;
+align-items: center;
+background-color: rgb(60, 255, 0);
+
+
+
+
+
+}
+.paragraph {
+   
+    font-size:large;
+    font-weight: 500;
+    
+    }
+.top_btn{
+    display: flex;
+    gap: 32px;
+    margin: 1rem 0;
+}
+
+    
+.form_control {
+    display: flex;
+    flex-direction: column;
+    width: 55%;
+    font-weight: 800;
+ 
+    margin:1rem 0 ;
+}
+.form_control label {
+    position:absolute ;
+ 
+    left: 15px;
+    top: 416px;
+}
+.form_control input{
+    height: 40px;
+    
+ 
+}
+.email_control {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    font-weight: 800;
+    margin:1rem 0 ;
+   
+}
+
+.email_control input {
+    height: 40px; 
+}
+.message_control {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    font-weight: 800;
+    margin:1rem 0 ;
+
+}
+
+.container{
+
+    display: flex   ;
+
+}
+
+.container div{
+    flex: 1;
+   
+}
+.email {
+    width:130%;
+
+}
